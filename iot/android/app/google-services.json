@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327373687257",
+    "firebase_url": "https://iotlab-aef8a-default-rtdb.firebaseio.com",
+    "project_id": "iotlab-aef8a",
+    "storage_bucket": "iotlab-aef8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327373687257:android:6c92b782ee321d8556f1c8",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327373687257-1mc8614e0v94qeih94i415uajbnjgus0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot",
+            "certificate_hash": "0b2b1337bfc2726a7f4525b708a765a29449a1e6"
+          }
+        },
+        {
+          "client_id": "327373687257-3s6p4kuk9hl2oscdatfnf2cnkqsvdmkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fJNVFUuzXgyO91kQJIxF4_GX5xLczmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327373687257-3s6p4kuk9hl2oscdatfnf2cnkqsvdmkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
